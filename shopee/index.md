@@ -1,5 +1,4 @@
 # Privacy Policy for Price History Tracker for Shopee - Independent Third-Party Version
-**Last Updated: March 12, 2026**
 
 This Privacy Policy describes how our Chrome Extension ("the Extension") handles user data. We are committed to protecting your privacy and ensuring transparency regarding the data we access.
 
