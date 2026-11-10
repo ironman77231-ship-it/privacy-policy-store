@@ -40,5 +40,8 @@ No Third-Party Sale: We never sell, rent, or trade your personal data to third-p
 
 Encryption: All data transmitted for price synchronization is encrypted via HTTPS.
 
-6. Contact Information
+6.Affiliate Disclosure
+Some links in this extension may be affiliate links. We may earn a commission from qualifying purchases made through those links.
+
+7. Contact Information
 If you have any questions regarding this Privacy Policy, please contact us at: [gjim6838@gmail.com]
